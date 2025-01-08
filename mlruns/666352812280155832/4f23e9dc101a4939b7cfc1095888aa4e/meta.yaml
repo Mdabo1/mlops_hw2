@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdabo/mlops4/mlruns/666352812280155832/4f23e9dc101a4939b7cfc1095888aa4e/artifacts
+end_time: 1736332528597
+entry_point_name: ''
+experiment_id: '666352812280155832'
+lifecycle_stage: active
+run_id: 4f23e9dc101a4939b7cfc1095888aa4e
+run_name: smiling-owl-603
+run_uuid: 4f23e9dc101a4939b7cfc1095888aa4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736332525770
+status: 3
+tags: []
+user_id: mdabo

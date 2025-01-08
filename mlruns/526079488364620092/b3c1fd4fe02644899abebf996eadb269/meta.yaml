@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdabo/mlops4/mlruns/526079488364620092/b3c1fd4fe02644899abebf996eadb269/artifacts
+end_time: 1736331556770
+entry_point_name: ''
+experiment_id: '526079488364620092'
+lifecycle_stage: active
+run_id: b3c1fd4fe02644899abebf996eadb269
+run_name: silent-stag-224
+run_uuid: b3c1fd4fe02644899abebf996eadb269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736331555147
+status: 3
+tags: []
+user_id: mdabo

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdabo/mlops4/mlruns/526079488364620092/1e9504394ea0419bbae1c5cf4ea22226/artifacts
+end_time: 1736331769093
+entry_point_name: ''
+experiment_id: '526079488364620092'
+lifecycle_stage: active
+run_id: 1e9504394ea0419bbae1c5cf4ea22226
+run_name: worried-calf-531
+run_uuid: 1e9504394ea0419bbae1c5cf4ea22226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736331767423
+status: 3
+tags: []
+user_id: mdabo

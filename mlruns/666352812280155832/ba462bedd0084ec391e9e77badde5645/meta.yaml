@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdabo/mlops4/mlruns/666352812280155832/ba462bedd0084ec391e9e77badde5645/artifacts
+end_time: 1736332305861
+entry_point_name: ''
+experiment_id: '666352812280155832'
+lifecycle_stage: active
+run_id: ba462bedd0084ec391e9e77badde5645
+run_name: funny-conch-713
+run_uuid: ba462bedd0084ec391e9e77badde5645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736332303035
+status: 3
+tags: []
+user_id: mdabo

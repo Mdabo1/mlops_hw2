@@ -1,0 +1,6 @@
+artifact_location: file:///home/mdabo/mlops4/mlruns/666352812280155832
+creation_time: 1736331938305
+experiment_id: '666352812280155832'
+last_update_time: 1736331938305
+lifecycle_stage: active
+name: Wine_Quality_Regression

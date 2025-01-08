@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdabo/mlops4/mlruns/666352812280155832/5cdc8a46ddb34981bdf9a64260166cf6/artifacts
+end_time: 1736331939390
+entry_point_name: ''
+experiment_id: '666352812280155832'
+lifecycle_stage: active
+run_id: 5cdc8a46ddb34981bdf9a64260166cf6
+run_name: bedecked-wolf-671
+run_uuid: 5cdc8a46ddb34981bdf9a64260166cf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736331938376
+status: 4
+tags: []
+user_id: mdabo

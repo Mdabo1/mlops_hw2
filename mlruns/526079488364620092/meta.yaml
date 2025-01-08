@@ -1,0 +1,6 @@
+artifact_location: file:///home/mdabo/mlops4/mlruns/526079488364620092
+creation_time: 1736331555071
+experiment_id: '526079488364620092'
+last_update_time: 1736331555071
+lifecycle_stage: active
+name: Iris_Classification

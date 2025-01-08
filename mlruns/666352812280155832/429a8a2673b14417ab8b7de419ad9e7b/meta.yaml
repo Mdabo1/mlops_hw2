@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdabo/mlops4/mlruns/666352812280155832/429a8a2673b14417ab8b7de419ad9e7b/artifacts
+end_time: 1736332161796
+entry_point_name: ''
+experiment_id: '666352812280155832'
+lifecycle_stage: active
+run_id: 429a8a2673b14417ab8b7de419ad9e7b
+run_name: learned-sponge-43
+run_uuid: 429a8a2673b14417ab8b7de419ad9e7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736332158247
+status: 3
+tags: []
+user_id: mdabo

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdabo/mlops4/mlruns/666352812280155832/38afad7ec6fc4770871c22d61a4f85ec/artifacts
+end_time: 1736332494333
+entry_point_name: ''
+experiment_id: '666352812280155832'
+lifecycle_stage: active
+run_id: 38afad7ec6fc4770871c22d61a4f85ec
+run_name: skillful-robin-511
+run_uuid: 38afad7ec6fc4770871c22d61a4f85ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736332490695
+status: 3
+tags: []
+user_id: mdabo
